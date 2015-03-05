@@ -1,8 +1,0 @@
-[submodule "clucene"]
-	path = clucene
-	url = https://github.com/Blue-Rocket/clucene.git
-	branch = develop
-[submodule "MagicalRecord"]
-	path = MagicalRecord
-	url = https://github.com/magicalpanda/MagicalRecord.git
-	branch = master
