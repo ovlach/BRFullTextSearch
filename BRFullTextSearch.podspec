@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   s.license      = "Apache License, Version 2.0"
   s.author       = { "Matt Magoffin" => "git+matt@msqr.us" }
 
-  s.platform     = :ios, "5.0"
+  s.platform     = :osx, "10.10"
 
   s.source       = { :git => "https://github.com/Blue-Rocket/BRFullTextSearch.git", 
   					 :tag => s.version.to_s, :submodules => true }
